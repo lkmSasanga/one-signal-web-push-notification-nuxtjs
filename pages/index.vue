@@ -14,7 +14,7 @@
         });
       </script>
     </head>
-    <Tutorial />
+    <h1>One signal web push notification testing project</h1>
   </div>
 </template>
 
